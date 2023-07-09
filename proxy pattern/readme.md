@@ -1,0 +1,1 @@
+The Proxy Pattern uses a Proxy intercept and control interactions to target objects.
