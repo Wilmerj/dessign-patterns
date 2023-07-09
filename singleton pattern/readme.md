@@ -1,0 +1,1 @@
+It is a single instance than can be shared througth  the entire application

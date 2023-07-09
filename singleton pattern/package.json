@@ -1,0 +1,13 @@
+{
+  "name": "singleton-pattern",
+  "version": "1.0.0",
+  "description": "It is a single instance than can be shared througth  the entire application",
+  "main": "counter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
