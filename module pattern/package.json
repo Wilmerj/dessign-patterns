@@ -1,0 +1,13 @@
+{
+  "name": "module-pattern",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
